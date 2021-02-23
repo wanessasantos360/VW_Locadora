@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="imgprojeto">
+    <file>Ícones do Proj/bagageiro_bau.jpg</file>
+    <file>Ícones do Proj/carretinhaalta.jpeg</file>
+    <file>Ícones do Proj/fotor carro.jpg</file>
+    <file>Ícones do Proj/LOGO VW Locadora - Carros .png</file>
+    <file>Ícones do Proj/multimidia.jpg</file>
+    <file>Ícones do Proj/suporte para reboque.jpeg</file>
+    <file>Ícones do Proj/suportebike.jpg</file>
+  </qresource>
+</RCC>
